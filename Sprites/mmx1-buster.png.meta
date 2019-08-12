@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 5ec92bb4af99a0c4bb9cc7c3a19361d6
+timeCreated: 1492985476
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mmx1-buster_0
+    21300002: mmx1-buster_1
+    21300004: mmx1-buster_2
+    21300006: mmx1-buster_3
+    21300008: mmx1-buster_4
+    21300010: mmx1-buster_5
+    21300012: mmx1-buster_6
+    21300014: mmx1-buster_7
+    21300016: mmx1-buster_8
+    21300018: mmx1-buster_9
+    21300020: mmx1-buster_10
+    21300022: mmx1-buster_11
+    21300024: mmx1-buster_12
+    21300026: mmx1-buster_13
+    21300028: mmx1-buster_14
+    21300030: mmx1-buster_15
+    21300032: mmx1-buster_16
+    21300034: mmx1-buster_17
+    21300036: mmx1-buster_18
+    21300038: mmx1-buster_19
+    21300040: mmx1-buster_20
+    21300042: mmx1-buster_21
+    21300044: mmx1-buster_22
+    21300046: mmx1-buster_23
+    21300048: mmx1-buster_24
+    21300050: mmx1-buster_25
+    21300052: mmx1-buster_26
+    21300054: mmx1-buster_27
+    21300056: mmx1-buster_28
+    21300058: mmx1-buster_29
+    21300060: mmx1-buster_30
+    21300062: mmx1-buster_31
+    21300064: mmx1-buster_32
+    21300066: mmx1-buster_33
+    21300068: mmx1-buster_34
+    21300070: mmx1-buster_35
+    21300072: mmx1-buster_36
+    21300074: mmx1-buster_37
+    21300076: mmx1-buster_38
+    21300078: mmx1-buster_39
+    21300080: mmx1-buster_40
+    21300082: mmx1-buster_41
+    21300084: mmx1-buster_42
+    21300086: mmx1-buster_43
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mmx1-buster_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 138
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 134
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 133
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 132
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 113
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 115
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 117
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 113
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_9
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 110
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 116
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_12
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 109
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_13
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 109
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_14
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 109
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 66
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_16
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 82
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 83
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: -14}
+        - {x: -8, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 10}
+        - {x: 11, y: 16}
+    - name: mmx1-buster_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 75
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 16}
+        - {x: -20, y: 15}
+        - {x: -20, y: -9}
+        - {x: -15, y: -16}
+        - {x: 16, y: -16}
+        - {x: 20, y: -10}
+        - {x: 20, y: 14}
+        - {x: 15, y: 16}
+    - name: mmx1-buster_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 80
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 76
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 77
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 74
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_24
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 12}
+        - {x: 11, y: 16}
+      - - {x: -10, y: -4}
+        - {x: -4, y: 10}
+        - {x: 10, y: 4}
+        - {x: 4, y: -10}
+      - - {x: -4, y: 6}
+        - {x: -6, y: 2}
+        - {x: -6, y: -6}
+        - {x: 3, y: -6}
+        - {x: 6, y: -5}
+        - {x: 6, y: 2}
+        - {x: 2, y: 6}
+    - name: mmx1-buster_25
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 82
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 86
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_27
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 82
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_28
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 72
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_29
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 72
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 43
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_31
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 41
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 40
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 39
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 15
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 11
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_36
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 6
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 6
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 31.5}
+        - {x: -16, y: 13.5}
+        - {x: -16, y: -18.5}
+        - {x: -4, y: -31.5}
+        - {x: 16, y: -31.5}
+        - {x: 16, y: 31.5}
+    - name: mmx1-buster_38
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 7
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_39
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 15
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_40
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 32
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_41
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_42
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 29
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mmx1-buster_43
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 109
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
