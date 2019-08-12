@@ -1,0 +1,1540 @@
+fileFormatVersion: 2
+guid: 1c693bd2b4064fd42ae0bd80646882c7
+timeCreated: 1492742278
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: megamanpowerbattlessheet_0
+    21300002: megamanpowerbattlessheet_1
+    21300004: megamanpowerbattlessheet_2
+    21300006: megamanpowerbattlessheet_3
+    21300008: megamanpowerbattlessheet_4
+    21300010: megamanpowerbattlessheet_5
+    21300012: megamanpowerbattlessheet_6
+    21300014: megamanpowerbattlessheet_7
+    21300016: megamanpowerbattlessheet_8
+    21300018: megamanpowerbattlessheet_9
+    21300020: megamanpowerbattlessheet_10
+    21300022: megamanpowerbattlessheet_11
+    21300024: megamanpowerbattlessheet_12
+    21300026: megamanpowerbattlessheet_13
+    21300028: megamanpowerbattlessheet_14
+    21300030: megamanpowerbattlessheet_15
+    21300032: megamanpowerbattlessheet_16
+    21300034: megamanpowerbattlessheet_17
+    21300036: megamanpowerbattlessheet_18
+    21300038: megamanpowerbattlessheet_19
+    21300040: megamanpowerbattlessheet_20
+    21300042: megamanpowerbattlessheet_21
+    21300044: megamanpowerbattlessheet_22
+    21300046: megamanpowerbattlessheet_23
+    21300048: megamanpowerbattlessheet_24
+    21300050: megamanpowerbattlessheet_25
+    21300052: megamanpowerbattlessheet_26
+    21300054: megamanpowerbattlessheet_27
+    21300056: megamanpowerbattlessheet_28
+    21300058: megamanpowerbattlessheet_29
+    21300060: megamanpowerbattlessheet_30
+    21300062: megamanpowerbattlessheet_31
+    21300064: megamanpowerbattlessheet_32
+    21300066: megamanpowerbattlessheet_33
+    21300068: megamanpowerbattlessheet_34
+    21300070: megamanpowerbattlessheet_35
+    21300072: megamanpowerbattlessheet_36
+    21300074: megamanpowerbattlessheet_37
+    21300076: megamanpowerbattlessheet_38
+    21300078: megamanpowerbattlessheet_39
+    21300080: megamanpowerbattlessheet_40
+    21300082: megamanpowerbattlessheet_41
+    21300084: megamanpowerbattlessheet_42
+    21300086: megamanpowerbattlessheet_43
+    21300088: megamanpowerbattlessheet_44
+    21300090: megamanpowerbattlessheet_45
+    21300092: megamanpowerbattlessheet_46
+    21300094: megamanpowerbattlessheet_47
+    21300096: megamanpowerbattlessheet_48
+    21300098: megamanpowerbattlessheet_49
+    21300100: megamanpowerbattlessheet_50
+    21300102: megamanpowerbattlessheet_51
+    21300104: megamanpowerbattlessheet_52
+    21300106: megamanpowerbattlessheet_53
+    21300108: megamanpowerbattlessheet_54
+    21300110: megamanpowerbattlessheet_55
+    21300112: megamanpowerbattlessheet_56
+    21300114: megamanpowerbattlessheet_57
+    21300116: megamanpowerbattlessheet_58
+    21300118: megamanpowerbattlessheet_59
+    21300120: megamanpowerbattlessheet_60
+    21300122: megamanpowerbattlessheet_61
+    21300124: megamanpowerbattlessheet_62
+    21300126: megamanpowerbattlessheet_63
+    21300128: megamanpowerbattlessheet_64
+    21300130: megamanpowerbattlessheet_65
+    21300132: megamanpowerbattlessheet_66
+    21300134: megamanpowerbattlessheet_67
+    21300136: megamanpowerbattlessheet_68
+    21300138: megamanpowerbattlessheet_69
+    21300140: megamanpowerbattlessheet_70
+    21300142: megamanpowerbattlessheet_71
+    21300144: megamanpowerbattlessheet_72
+    21300146: megamanpowerbattlessheet_73
+    21300148: megamanpowerbattlessheet_74
+    21300150: megamanpowerbattlessheet_75
+    21300152: megamanpowerbattlessheet_76
+    21300154: megamanpowerbattlessheet_77
+    21300156: megamanpowerbattlessheet_78
+    21300158: megamanpowerbattlessheet_79
+    21300160: megamanpowerbattlessheet_80
+    21300162: megamanpowerbattlessheet_81
+    21300164: megamanpowerbattlessheet_82
+    21300166: megamanpowerbattlessheet_83
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: megamanpowerbattlessheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 398
+        width: 10
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 398
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 398
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 398
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 398
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 17}
+        - {x: -18, y: -9}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+    - name: megamanpowerbattlessheet_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 398
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18}
+        - {x: -18, y: 1}
+        - {x: -18, y: -18}
+        - {x: 18, y: -18}
+        - {x: 18, y: 15}
+        - {x: 15, y: 18}
+    - name: megamanpowerbattlessheet_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 398
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 20}
+        - {x: -20.5, y: -6}
+        - {x: -20.5, y: -20}
+        - {x: 20.5, y: -20}
+        - {x: 20.5, y: 15}
+        - {x: 18.5, y: 20}
+    - name: megamanpowerbattlessheet_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 398
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 20}
+        - {x: -20.5, y: -6}
+        - {x: -20.5, y: -20}
+        - {x: 20.5, y: -20}
+        - {x: 20.5, y: 15}
+        - {x: 18.5, y: 20}
+    - name: megamanpowerbattlessheet_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 398
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 20}
+        - {x: -20.5, y: -6}
+        - {x: -20.5, y: -20}
+        - {x: 20.5, y: -20}
+        - {x: 20.5, y: 15}
+        - {x: 18.5, y: 20}
+    - name: megamanpowerbattlessheet_9
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 398
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 20}
+        - {x: -20.5, y: -6}
+        - {x: -20.5, y: -20}
+        - {x: 20.5, y: -20}
+        - {x: 20.5, y: 15}
+        - {x: 18.5, y: 20}
+    - name: megamanpowerbattlessheet_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 398
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 20}
+        - {x: -20.5, y: -5}
+        - {x: -20.5, y: -20}
+        - {x: 20.5, y: -20}
+        - {x: 20.5, y: 11}
+        - {x: 14.5, y: 20}
+    - name: megamanpowerbattlessheet_11
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 398
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 20}
+        - {x: -20.5, y: -5}
+        - {x: -20.5, y: -20}
+        - {x: 20.5, y: -20}
+        - {x: 20.5, y: 20}
+    - name: megamanpowerbattlessheet_12
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 398
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 20}
+        - {x: -20.5, y: 0}
+        - {x: -20.5, y: -1}
+        - {x: -17.5, y: -5}
+        - {x: -13.5, y: -9}
+        - {x: -19.5, y: -14}
+        - {x: -20.5, y: -16}
+        - {x: -20.5, y: -20}
+        - {x: 20.5, y: -20}
+        - {x: 20.5, y: 10}
+        - {x: 16.5, y: 20}
+    - name: megamanpowerbattlessheet_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 334
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20.5}
+        - {x: -20, y: -6.5}
+        - {x: -20, y: -20.5}
+        - {x: 20, y: -20.5}
+        - {x: 20, y: 20.5}
+    - name: megamanpowerbattlessheet_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 334
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 19}
+        - {x: -3, y: 18}
+        - {x: -19, y: -8}
+        - {x: -19, y: -19}
+        - {x: 18, y: -19}
+        - {x: 19, y: -13}
+        - {x: 19, y: 19}
+    - name: megamanpowerbattlessheet_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 334
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18}
+        - {x: -19, y: 10}
+        - {x: -19, y: -18}
+        - {x: 19, y: -18}
+        - {x: 19, y: 18}
+    - name: megamanpowerbattlessheet_16
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 334
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -16, y: 14}
+        - {x: -16, y: -20}
+        - {x: 4, y: -20}
+        - {x: 16, y: -14}
+        - {x: 16, y: 20}
+    - name: megamanpowerbattlessheet_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 333
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 12.5}
+        - {x: 14, y: 20.5}
+        - {x: 12, y: 25.5}
+        - {x: -18, y: 25.5}
+        - {x: -18, y: -25.5}
+        - {x: 6, y: -25.5}
+        - {x: 15, y: -17.5}
+        - {x: 17, y: -15.5}
+        - {x: 18, y: -7.5}
+    - name: megamanpowerbattlessheet_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 332
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 335
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 20.5}
+        - {x: -8, y: 20.5}
+        - {x: -21, y: 4.5}
+        - {x: -21, y: -20.5}
+        - {x: 21, y: -20.5}
+        - {x: 21, y: 10.5}
+        - {x: 18, y: 19.5}
+    - name: megamanpowerbattlessheet_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 335
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -5.5}
+        - {x: -21, y: -20.5}
+        - {x: 23, y: -20.5}
+        - {x: 23, y: 13.5}
+        - {x: 19, y: 20.5}
+    - name: megamanpowerbattlessheet_21
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 335
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 20.5}
+    - name: megamanpowerbattlessheet_22
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 335
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 20.5}
+    - name: megamanpowerbattlessheet_23
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 335
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 20.5}
+    - name: megamanpowerbattlessheet_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 272
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: -6}
+        - {x: 26.5, y: 13}
+        - {x: 14.5, y: 19}
+        - {x: -9.5, y: 19}
+        - {x: -26.5, y: -13}
+        - {x: -26.5, y: -19}
+        - {x: 26.5, y: -19}
+        - {x: 26.5, y: -11}
+        - {x: 23.5, y: -12}
+    - name: megamanpowerbattlessheet_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 272
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -20, y: 6}
+        - {x: -26, y: -12}
+        - {x: -26, y: -19}
+        - {x: 20, y: -19}
+        - {x: 26, y: -4}
+        - {x: 26, y: 9}
+        - {x: 13, y: 19}
+      - - {x: -26, y: 9}
+        - {x: -26, y: -4}
+        - {x: -22, y: -4}
+        - {x: -17, y: 1}
+        - {x: -17, y: 4}
+        - {x: -22, y: 9}
+    - name: megamanpowerbattlessheet_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 278
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -16, y: 14}
+        - {x: -16, y: -20}
+        - {x: 4, y: -20}
+        - {x: 16, y: -14}
+        - {x: 16, y: 20}
+    - name: megamanpowerbattlessheet_27
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 274
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 24}
+        - {x: -19, y: 18}
+        - {x: -19, y: -10}
+        - {x: -15, y: -24}
+        - {x: 1, y: -24}
+        - {x: 15, y: -14}
+        - {x: 19, y: -7}
+        - {x: 19, y: 20}
+        - {x: 17, y: 24}
+    - name: megamanpowerbattlessheet_28
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 273
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25.5}
+        - {x: -18, y: -25.5}
+        - {x: 12, y: -25.5}
+        - {x: 18, y: -22.5}
+        - {x: 18, y: 24.5}
+        - {x: 14, y: 25.5}
+    - name: megamanpowerbattlessheet_29
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 271
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 26.5}
+        - {x: -18.5, y: -11.5}
+        - {x: -14.5, y: -26.5}
+        - {x: 3.5, y: -26.5}
+        - {x: 18.5, y: -14.5}
+        - {x: 18.5, y: 24.5}
+        - {x: 16.5, y: 26.5}
+    - name: megamanpowerbattlessheet_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 283
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 11}
+        - {x: 14, y: 20}
+        - {x: -9, y: 20}
+        - {x: -23, y: 14}
+        - {x: -23, y: -19}
+        - {x: -22, y: -20}
+        - {x: -4, y: -20}
+        - {x: 3, y: -8}
+        - {x: 20, y: -1}
+        - {x: 23, y: 2}
+    - name: megamanpowerbattlessheet_31
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 277
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -22}
+        - {x: -21, y: -24}
+        - {x: -4, y: -24}
+        - {x: 9, y: -13}
+        - {x: 24, y: 2}
+        - {x: 24, y: 22}
+    - name: megamanpowerbattlessheet_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 273
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 25.5}
+        - {x: -22.5, y: 25.5}
+        - {x: -22.5, y: -25.5}
+        - {x: 1.5, y: -25.5}
+        - {x: 13.5, y: -17.5}
+        - {x: 22.5, y: -4.5}
+        - {x: 22.5, y: 18.5}
+    - name: megamanpowerbattlessheet_33
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 271
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 26.5}
+        - {x: -22.5, y: 26.5}
+        - {x: -22.5, y: -26.5}
+        - {x: 0.5, y: -26.5}
+        - {x: 15.5, y: -17.5}
+        - {x: 22.5, y: -8.5}
+        - {x: 22.5, y: 19.5}
+    - name: megamanpowerbattlessheet_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 222
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 20}
+        - {x: -18, y: -1}
+        - {x: -21, y: -12}
+        - {x: -21, y: -20}
+        - {x: 21, y: -20}
+        - {x: 21, y: 13}
+        - {x: 18, y: 20}
+    - name: megamanpowerbattlessheet_35
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 222
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 18.5}
+        - {x: -5, y: 18.5}
+        - {x: -16, y: -7.5}
+        - {x: -16, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 11, y: -15.5}
+        - {x: 16, y: -2.5}
+    - name: megamanpowerbattlessheet_36
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 222
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_37
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 222
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 18.5}
+        - {x: -15, y: 9.5}
+        - {x: -16, y: 6.5}
+        - {x: -16, y: -5.5}
+        - {x: -14, y: -6.5}
+        - {x: -11, y: -6.5}
+        - {x: -13, y: -6.5}
+        - {x: -16, y: -8.5}
+        - {x: -16, y: -18.5}
+        - {x: 13, y: -18.5}
+        - {x: 16, y: -16.5}
+        - {x: 16, y: 18.5}
+    - name: megamanpowerbattlessheet_38
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 225
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 17.5}
+        - {x: -22, y: 4.5}
+        - {x: -22, y: -17.5}
+        - {x: 19, y: -17.5}
+        - {x: 22, y: -16.5}
+        - {x: 22, y: 8.5}
+        - {x: 17, y: 17.5}
+    - name: megamanpowerbattlessheet_39
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 222
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 223
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 19}
+        - {x: -2.5, y: 19}
+        - {x: -20.5, y: -1}
+        - {x: -20.5, y: -19}
+        - {x: 15.5, y: -19}
+        - {x: 20.5, y: -14}
+        - {x: 20.5, y: 14}
+    - name: megamanpowerbattlessheet_41
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 227
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 18}
+        - {x: -25.5, y: -3}
+        - {x: -25.5, y: -12}
+        - {x: -24.5, y: -14}
+        - {x: 4.5, y: -18}
+        - {x: 24.5, y: -18}
+        - {x: 25.5, y: -17}
+        - {x: 25.5, y: 17}
+        - {x: 22.5, y: 18}
+    - name: megamanpowerbattlessheet_42
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 227
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 18}
+        - {x: -19.5, y: 0}
+        - {x: -19.5, y: -18}
+        - {x: 19.5, y: -18}
+        - {x: 19.5, y: 18}
+    - name: megamanpowerbattlessheet_43
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 175
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 18.5}
+        - {x: -18, y: 18.5}
+        - {x: -22, y: -2.5}
+        - {x: -22, y: -18.5}
+        - {x: 5, y: -18.5}
+        - {x: 6, y: -14.5}
+        - {x: 22, y: -5.5}
+    - name: megamanpowerbattlessheet_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 175
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18.5}
+        - {x: -22, y: 9.5}
+        - {x: -22, y: -18.5}
+        - {x: 22, y: -18.5}
+        - {x: 22, y: 10.5}
+        - {x: 14, y: 18.5}
+    - name: megamanpowerbattlessheet_45
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 176
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 18.5}
+        - {x: -23.5, y: 10.5}
+        - {x: -23.5, y: -18.5}
+        - {x: 13.5, y: -18.5}
+        - {x: 23.5, y: -2.5}
+        - {x: 23.5, y: 13.5}
+        - {x: 19.5, y: 18.5}
+      - - {x: 20.5, y: -16.5}
+        - {x: 22.5, y: -18.5}
+        - {x: 23.5, y: -18.5}
+        - {x: 23.5, y: -7.5}
+        - {x: 20.5, y: -8.5}
+    - name: megamanpowerbattlessheet_46
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 175
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 17.5}
+        - {x: -26, y: 8.5}
+        - {x: -26, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 26, y: -10.5}
+        - {x: 26, y: 17.5}
+    - name: megamanpowerbattlessheet_47
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 175
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 17.5}
+        - {x: -8, y: 17.5}
+        - {x: -22, y: 8.5}
+        - {x: -22, y: -17.5}
+        - {x: 6, y: -17.5}
+        - {x: 22, y: -4.5}
+        - {x: 22, y: 7.5}
+        - {x: 20, y: 11.5}
+    - name: megamanpowerbattlessheet_48
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 176
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 19}
+        - {x: -25.5, y: -3}
+        - {x: -25.5, y: -19}
+        - {x: 25.5, y: -19}
+        - {x: 25.5, y: 19}
+    - name: megamanpowerbattlessheet_49
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 177
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 18.5}
+        - {x: -26.5, y: 1.5}
+        - {x: -26.5, y: -13.5}
+        - {x: -9.5, y: -18.5}
+        - {x: 25.5, y: -18.5}
+        - {x: 26.5, y: -13.5}
+        - {x: 26.5, y: 13.5}
+        - {x: 19.5, y: 18.5}
+    - name: megamanpowerbattlessheet_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 178
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 18}
+        - {x: -22.5, y: -18}
+        - {x: 17.5, y: -18}
+        - {x: 22.5, y: -12}
+        - {x: 22.5, y: 18}
+    - name: megamanpowerbattlessheet_51
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 129
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 10}
+        - {x: -28.5, y: -2}
+        - {x: -28.5, y: -20}
+        - {x: 28.5, y: -20}
+        - {x: 28.5, y: -2}
+        - {x: 5.5, y: 10}
+    - name: megamanpowerbattlessheet_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 129
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 10}
+        - {x: -19.5, y: 10}
+        - {x: -25.5, y: -3}
+        - {x: -25.5, y: -20}
+        - {x: 23.5, y: -20}
+        - {x: 25.5, y: -17}
+        - {x: 25.5, y: -7}
+        - {x: 24.5, y: -4}
+    - name: megamanpowerbattlessheet_53
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 129
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 12}
+        - {x: -21.5, y: -2}
+        - {x: -21.5, y: -20}
+        - {x: 21.5, y: -20}
+        - {x: 21.5, y: -3}
+        - {x: 3.5, y: 12}
+    - name: megamanpowerbattlessheet_54
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 129
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 16}
+        - {x: -9, y: 13}
+        - {x: -18, y: -12}
+        - {x: -18, y: -20}
+        - {x: 18, y: -20}
+        - {x: 18, y: 15}
+        - {x: 15, y: 16}
+    - name: megamanpowerbattlessheet_55
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 129
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18}
+        - {x: -18, y: 1}
+        - {x: -18, y: -18}
+        - {x: 18, y: -18}
+        - {x: 18, y: 15}
+        - {x: 15, y: 18}
+    - name: megamanpowerbattlessheet_56
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 124
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 23.5}
+        - {x: -6, y: 23.5}
+        - {x: -12, y: 16.5}
+        - {x: -12, y: 11.5}
+        - {x: -8, y: 7.5}
+        - {x: -5, y: 7.5}
+        - {x: -6, y: 7.5}
+        - {x: -22, y: 8.5}
+        - {x: -22, y: -5.5}
+        - {x: -18, y: -8.5}
+        - {x: 8, y: -23.5}
+        - {x: 22, y: -23.5}
+        - {x: 22, y: 19.5}
+        - {x: 21, y: 22.5}
+    - name: megamanpowerbattlessheet_57
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 127
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 21.5}
+        - {x: -19.5, y: -13.5}
+        - {x: -8.5, y: -21.5}
+        - {x: 19.5, y: -21.5}
+        - {x: 19.5, y: 21.5}
+    - name: megamanpowerbattlessheet_58
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 131
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 19}
+        - {x: -23, y: 19}
+        - {x: -26, y: 9}
+        - {x: -26, y: -13}
+        - {x: -8, y: -19}
+        - {x: 26, y: -19}
+        - {x: 26, y: -1}
+        - {x: 24, y: 10}
+    - name: megamanpowerbattlessheet_59
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 131
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 17}
+        - {x: -23.5, y: 13}
+        - {x: -23.5, y: -16}
+        - {x: -20.5, y: -17}
+        - {x: 23.5, y: -17}
+        - {x: 23.5, y: -11}
+        - {x: 2.5, y: 17}
+    - name: megamanpowerbattlessheet_60
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 131
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18.5}
+        - {x: -20, y: 6.5}
+        - {x: -20, y: -17.5}
+        - {x: -19, y: -18.5}
+        - {x: 20, y: -18.5}
+        - {x: 20, y: -9.5}
+        - {x: 15, y: 18.5}
+    - name: megamanpowerbattlessheet_61
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 78
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 18.5}
+        - {x: -22, y: 10.5}
+        - {x: -19, y: 8.5}
+        - {x: -23, y: 7.5}
+        - {x: -29, y: 5.5}
+        - {x: -29, y: -18.5}
+        - {x: -2, y: -18.5}
+        - {x: 29, y: -11.5}
+        - {x: 29, y: 17.5}
+        - {x: 22, y: 18.5}
+    - name: megamanpowerbattlessheet_62
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 77
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_63
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 78
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 20}
+        - {x: -19, y: 1}
+        - {x: -14, y: -20}
+        - {x: 14, y: -20}
+        - {x: 19, y: -18}
+        - {x: 19, y: 12}
+        - {x: 5, y: 20}
+    - name: megamanpowerbattlessheet_64
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 82
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 2}
+        - {x: 9.5, y: 1}
+        - {x: 13.5, y: 6}
+        - {x: 14.5, y: 12}
+        - {x: 6.5, y: 18}
+        - {x: -21.5, y: 18}
+        - {x: -22.5, y: 17}
+        - {x: -22.5, y: -1}
+        - {x: -21.5, y: -6}
+        - {x: -7.5, y: -18}
+        - {x: 19.5, y: -18}
+        - {x: 22.5, y: -11}
+        - {x: 22.5, y: 5}
+    - name: megamanpowerbattlessheet_65
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 86
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_66
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 79
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -6}
+        - {x: 11, y: -6}
+        - {x: 18, y: -5}
+        - {x: 18, y: 19}
+        - {x: -17, y: 19}
+        - {x: -18, y: 18}
+        - {x: -18, y: -15}
+        - {x: -16, y: -19}
+        - {x: 18, y: -19}
+        - {x: 18, y: -12}
+        - {x: 16, y: -7}
+    - name: megamanpowerbattlessheet_67
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 85
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 17}
+        - {x: -23.5, y: 11}
+        - {x: -23.5, y: -9}
+        - {x: -16.5, y: -17}
+        - {x: 10.5, y: -17}
+        - {x: 23.5, y: -12}
+        - {x: 23.5, y: 5}
+        - {x: 1.5, y: 17}
+    - name: megamanpowerbattlessheet_68
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 91
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_69
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 85
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 19}
+        - {x: -18, y: 12}
+        - {x: -16, y: 7}
+        - {x: -13, y: 6}
+        - {x: -11, y: 6}
+        - {x: -18, y: 5}
+        - {x: -18, y: -19}
+        - {x: 15, y: -19}
+        - {x: 18, y: -18}
+        - {x: 18, y: 17}
+        - {x: 17, y: 19}
+    - name: megamanpowerbattlessheet_70
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 84
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 17}
+        - {x: -8.5, y: 17}
+        - {x: -23.5, y: 10}
+        - {x: -23.5, y: -8}
+        - {x: -6.5, y: -17}
+        - {x: 20.5, y: -17}
+        - {x: 23.5, y: -14}
+        - {x: 23.5, y: 9}
+        - {x: 22.5, y: 13}
+    - name: megamanpowerbattlessheet_71
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 25
+        width: 57
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_72
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 27
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 27
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_74
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 26
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_75
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 28
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_76
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 28
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_77
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 27
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_78
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 29
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_79
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 29
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_80
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 27
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamanpowerbattlessheet_81
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 26
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 25}
+        - {x: -16, y: 23}
+        - {x: -16, y: 20}
+        - {x: -18, y: -8}
+        - {x: -18, y: -25}
+        - {x: 18, y: -25}
+        - {x: 18, y: 25}
+    - name: megamanpowerbattlessheet_82
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 26
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -18.5}
+        - {x: 18.5, y: -18.5}
+        - {x: 19.5, y: -14.5}
+        - {x: 24.5, y: -2.5}
+        - {x: 24.5, y: 13.5}
+        - {x: 20.5, y: 18.5}
+        - {x: -20.5, y: 18.5}
+        - {x: -24.5, y: 15.5}
+        - {x: -24.5, y: 3.5}
+        - {x: -16.5, y: -2.5}
+        - {x: -24.5, y: -13.5}
+        - {x: -24.5, y: -18.5}
+        - {x: -4.5, y: -18.5}
+        - {x: -3.5, y: -15.5}
+        - {x: -3.5, y: -10.5}
+        - {x: -3.5, y: -17.5}
+    - name: megamanpowerbattlessheet_83
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 5
+        width: 146
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
